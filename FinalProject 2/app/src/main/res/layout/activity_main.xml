@@ -1,0 +1,35 @@
+
+
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+          - To efficiently re-use complete layouts, you can use the <include/> tags to embed     -
+          - another complete layout inside the current layout. In Sunshine, this allows us to    -
+          - conveniently create layouts for both the portrait and landscape layouts for the      -
+          - DetailActivity. If we hadn't have used <include/> tags, we would have duplicated     -
+          - layout code all over the place, and any changes we wanted to make, we'd have to make -
+          - twice.                                                                               -
+          - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <include xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/main_fragment"
+            android:name="com.udacity.gradle.builditbigger.MainActivityFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:layout="@layout/fragment_main" />
+
+        <include
+            android:id="@+id/joke_fragment"
+            layout="@layout/fragment_joke"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.40" />
+    </LinearLayout>
+</layout>

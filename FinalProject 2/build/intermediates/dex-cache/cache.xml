@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/2a1b62fed4d4239a7f1d628737f8f8886b5c184d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_682533af0276d46c56f4c8d3f70701a4bda77230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/a063e9209f335fcd80309df220f51df9ceab8afa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_61778bb47707adc06da2648a185edfe37069f081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/16a50892d4d8e701d88b5befd94fd65476258799/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_5b13b98bce702cc35a2a98c3d7e1e0945308f3c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/9c9868e6ae059c02e348555e3779cf73ce50bad0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_26329280788edc7a0c44e34bf81dfa5589fa224b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/Downloads/FinalProject/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f75fbcc2a4ed9ee19ec51556c119fcc36952e8ce">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/backend-android-endpoints_2a0ef8bac04aa058b58113bd50190cfd4ae98eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/3f87327af9d24d2acd561fdc02c1b5690b557337/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_38492380dcd817c20c9fcd0578074f53eaada4df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/jackson-core-2.1.3_2327d63bd498e396996e7a3932b6b0f4f9a6fae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/288022335bc4273bbf823fc29f1d3d05c6ffacb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_d842196a2787b06c6502499a49d47e8c3f831168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/Downloads/FinalProject/jokelib/build/libs/jokelib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08ae79b02f10539f309a895fd838b72c4500caa1">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/jokelib_ce1451a2048c850c2f51b02aa970e46356089870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/e14ba915de48257ae41a3e9ba6d8da4757a1e9e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_a1e3a1a98dc9b64e0a0419a87b972cc1232fb151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/3197d9e60dad06ad2d106dd39dccf5710a21928c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_f89d1bbf234e9395b8136ca3f911e3357964c668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-api-client-android-1.20.0_8d914ad2e2de9e566eb2e110e2f129a1cd8dbc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/c2a6dfc4ef498bc2e90ce45d2a0cee85ee942305/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_9db1b5a1877b57634668185abeb54eeeb2cc6c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-jackson2-1.20.0_4ba75df8230828ec624d05f73b83da968bc3a6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/Downloads/FinalProject/displayjoke/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8640ebac371a2aa5eac1a378f282cd4777d49">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_7a6167507d7c89e71817190550106b4b724559b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-android-1.20.0_8703fd579ef9ad7483a4db186b9c0354cdce27f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/guava-jdk5-13.0_05b53334e69ba74c826faa7fd01c0e28655e99b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-oauth-client-1.20.0_7265b9989ad1c825571779cebb373bc207b5978e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/7ea83f5f2da15447de14f6c5b1093d06a1ce88b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_14f6640319041d5733d448f8d8ee58897f04805f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-1.20.0_f2566fb246e72fa720d795d1201396fd2d381178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/62b0b0aa03ad06e75b38d19e52ec10dc3dbf4fc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_bf4454ba801cc4e4d478c74b11d999fa0f9774af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/8873483d51821f4e4b410aff238c640215aa7882/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_cf65aa91629b1aeea651ba71eb2cb7d86d1ef963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/1261fbd50cd97174415db76a4535e7cd18b8cadc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_f670d24f2610de49e641ddedc06377242ca8b8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/bc4b79bddd752a82d2df1ed4234ea4a844e2f0ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_b6a7e9e62ff5cbe66b5f42137dc1822dbf98c78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/jsr305-2.0.1_ad977f282a88f7adef9411bcc2a6a77fd3888f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/support-annotations-25.1.1_bbc780dba11bf5516b30f617fb036271ce6225ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/ba3fd2d1ea43dd1cb8c6bd2c829eabfdec30ea0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_656bf2d5a52ca7d817f370c8d127ac9f6a918886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.android/build-cache/fb150fe4f4ac23287ecd748137af4b9dc1b60010/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/classes_4d8375337adb9c0e1aac3fd9dd06a652f04f82a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/helenherring/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/helenherring/Downloads/FinalProject/app/build/intermediates/pre-dexed/free/debug/google-api-client-1.20.0_57d7e04335241c1c573eef8969c5ba123ed80b1b.jar" />
+    </item>
+
+</items>
